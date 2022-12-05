@@ -5,6 +5,8 @@ import LandingPage from './components/LandingPage';
 import OwnerLogin from './components/OwnerLogin';
 import Owner from './components/Owner';
 import Inventory from './components/Inventory';
+import RetailerLogin from './components/RetailerLogin';
+import RetailerRegistration from './components/RetailerLogin';
 
 function App() {
   return (
