@@ -16,6 +16,8 @@ function App() {
             <Route exact path= '/ownerlogin' element ={<OwnerLogin/>}></Route>
             <Route exact path= '/owner' element ={<Owner/>}></Route>
             <Route exact path= '/inventory' element ={<Inventory/>}></Route>
+            <Route exact path= '/retailerlogin' element ={<RetailerLogin/>}></Route>
+            <Route exact path= '/retailerregistration' element ={<RetailerRegistration/>}></Route>
           </Routes>
         </Router>
       </div>
