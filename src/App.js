@@ -6,7 +6,7 @@ import OwnerLogin from './components/OwnerLogin';
 import Owner from './components/Owner';
 import Inventory from './components/Inventory';
 import RetailerLogin from './components/RetailerLogin';
-import RetailerRegistration from './components/RetailerLogin';
+import RetailerRegistration from './components/RetailerRegistration';
 
 function App() {
   return (
